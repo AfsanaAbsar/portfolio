@@ -1,0 +1,25 @@
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F2F1F7;
+    padding-top: 50px;
+
+}
+
+
+
+.nav-item {
+    color: #355C59;
+    text-decoration: none;
+    margin-left: 15px;
+    border-bottom: 2px solid #F2F1F7;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    cursor: pointer;
+
+}
+
+.nav-item:hover {
+    border-bottom: 2px solid #355C59;
+}

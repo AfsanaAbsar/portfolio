@@ -1,0 +1,89 @@
+.banner-section {
+    position: relative;
+}
+
+.section-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F2F1F7;
+    padding-bottom: 100px;
+
+}
+
+
+.banner-title h1 {
+    color: #AE584B;
+    font-size: 40px;
+
+}
+
+.secondary-title {
+    font-size: 20px;
+    letter-spacing: 1.1px;
+    color: #355C59;
+
+}
+
+.banner-description {
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 20px;
+    border-left: 1px solid #355C59;
+}
+
+.banner-description p {
+    line-height: 40px;
+}
+
+
+
+.banner-icons {
+    width: 20px;
+    margin-right: 20px;
+    border: 3px solid #ffffff;
+    border-radius: 30px;
+    background-color: #ffffff;
+}
+
+.banner-icons:hover {
+    border: 3px solid #355C59;
+    border-radius: 30px;
+}
+
+button {
+    border: none;
+    background-color: #AE584B;
+    color: aliceblue;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 25px;
+}
+
+.banner-img {
+    width: 50%;
+}
+
+.banner-img img {
+    width: 100%;
+}
+
+.custom-shape-divider-bottom-1663743439 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1663743439 svg {
+    position: relative;
+    display: block;
+    width: calc(140% + 1.3px);
+    height: 160px;
+}
+
+.custom-shape-divider-bottom-1663743439 .shape-fill {
+    fill: #FFFFFF;
+}

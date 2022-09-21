@@ -1,0 +1,51 @@
+.about-section {
+    position: relative;
+    background-color: #F2F1F7;
+    margin: 0;
+}
+
+.about-section h1 {
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+    color: #355C59;
+    font-size: 40px;
+    letter-spacing: 5px;
+    /* padding-bottom: 300px; */
+}
+
+
+.about-section-area {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F2F1F7;
+    padding-bottom: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+
+
+
+
+.custom-shape-divider-bottom-1663743439 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1663743439 svg {
+    position: relative;
+    display: block;
+    width: calc(140% + 1.3px);
+    height: 160px;
+}
+
+.custom-shape-divider-bottom-1663743439 .shape-fill {
+    fill: #FFFFFF;
+}
